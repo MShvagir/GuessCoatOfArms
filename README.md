@@ -1,4 +1,4 @@
-# Game Guess Coat of Arms 
+# Guess Coat of Arms Game App
 This game "Guess coat of arms" was inspired by the popular TV show "Game of Thrones".<br>
 I think guessing normal country flags is so boring, so I created this easy game from George Martin's fantasy world.<br>
 Win-win (:
